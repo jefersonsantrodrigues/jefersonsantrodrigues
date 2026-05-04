@@ -2,7 +2,7 @@
 
 > Desenvolvedor backend apaixonado por como as coisas funcionam, bastidores da tecnologia e automação.
 
-![VB6](https://img.shields.io/badge/VB6-blue)
+![C](https://img.shields.io/badge/C-blue) ![VB6](https://img.shields.io/badge/VB6-blue)
 ---
 
 ## 👨‍💻 Sobre mim
